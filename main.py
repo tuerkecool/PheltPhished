@@ -186,7 +186,7 @@ async def handle_recall_connection(websocket):
         "type": "response.create",
         "response": {
             "modalities": ["text", "audio"],
-            "instructions": "Introduce yourself and start the security verification call. Be brief."
+            "instructions": "Introduce yourself and start the security verification call. Speak in English only. Be brief."
         }
     }))
 
