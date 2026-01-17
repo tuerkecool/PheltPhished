@@ -39,7 +39,7 @@ brew install ngrok
 1. **Clone and set up virtual environment**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/tuerkecool/PheltPhished.git
    cd PheltPhished
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
